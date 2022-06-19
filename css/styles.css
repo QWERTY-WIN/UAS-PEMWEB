@@ -1,0 +1,40 @@
+* {
+    font-family: "Trebuchet MS";
+}
+h1 {
+  color: black;
+  text-align: center;
+  font-size: 200%
+}
+h4 {
+  text-decoration: underline;
+  text-align: center;
+  color: blue;
+} 
+table {
+  border: solid 1px #DDEEEE;
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 70%;
+  margin: 10px auto 10px auto;
+}
+table thead th {
+    background-color: grey;
+    border: solid 2px black;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+}
+table tbody td {
+    border: solid 2px #DDEEEE;
+    color: #333;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.base {
+  width: 400px;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
